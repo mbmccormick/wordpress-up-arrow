@@ -12,7 +12,7 @@ Author URI: http://mbmccormick.com
 function append_footer()
 {
 ?>
-<div id="up-arrow" style="display: none; background: #DBDBDB; border-bottom-left-radius: 5px 5px; border-bottom-right-radius: 5px 5px; border-top-left-radius: 5px 5px; border-top-right-radius: 5px 5px; color: #333; cursor: pointer; font-size: 36px; opacity: 0.7; padding: 18px 18px; position: fixed; right: 52px; top: 42px;">
+<div id="up-arrow" style="display: none; background: #DBDBDB; border-radius: 5px; -moz-border-radius: 5px; color: #333; cursor: pointer; font-size: 36px; opacity: 0.7; padding: 18px 18px; position: fixed; right: 52px; top: 42px;">
     &#9650;
 </div>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
